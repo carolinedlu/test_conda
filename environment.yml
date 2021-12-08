@@ -1,0 +1,8 @@
+name: sl_looker_joins
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - python-graphviz
+  - streamlit
